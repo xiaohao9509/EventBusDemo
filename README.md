@@ -1,5 +1,5 @@
 # EventBusDemo
-##这是我的关于EventBus的简易Demo
+##这是我的关于EventBus的一个简易Demo
 ###1.导入EventBus
 最新的EventBus:[https://github.com/greenrobot/EventBus](https://github.com/greenrobot/EventBus)
 
